@@ -1,1 +1,3 @@
 hello git 
+15:00 : add something
+16:00: say something
